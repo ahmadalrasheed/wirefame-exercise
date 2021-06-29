@@ -15,16 +15,35 @@ nav ul li {display: inline-block;margin: 30px 0 0 180px;padding-bottom: 50px;}
 header img {margin: 15px 0 0 100px  ;float: left;}
 
 
-footer{background-color: #444444;height: 100px;}
 
-/* 
-div img{margin-left: 260px;} */
+
+
 
 
 section{margin-left: 260px;}
 
 main img{padding-top:30px}
 
-section article div img{padding-left: 18px;}
+img{float: left;}
+
+section article div img {padding-left: 14px;}
+
+
+article p{box-sizing: border-box;overflow: auto;}
+
+
+
+section div article{width:430px;display: inline-block;margin: 70px 0 0 50px;}
+
+button{background-color: black;color: white;}
+
+
+
+footer{background-color: #444444;height: 100px;clear: both;}
+
+
+h3{font-size: 20px;font-weight: bolder;}
+
+
 
 
